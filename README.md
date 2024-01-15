@@ -1,4 +1,7 @@
 # Artificial Neural Networks Final
+
+Video: https://youtu.be/GwXWSbKewI0
+
 ## How to run
 Download & open with your favorite code editor that can open jupyter files. VSCode is recommended.
 
