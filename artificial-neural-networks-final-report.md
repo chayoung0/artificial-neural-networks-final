@@ -2,15 +2,14 @@ Meliha Çağla Kara
 040180014
 15.01.2024
 
-Link to project: https://github.com/chayoung0/artificial-neural-networks-final
-I converted the jupyter notebook to python script in order to upload it to ninova, but the converted file looks awful. I recommend seeing the code at github.
-
 Video: https://youtu.be/GwXWSbKewI0
+
 # Data Collection
 
 I decided to do my own data collection and prepared a setup like this:
 
-![[Pasted image 20240115170115.png]]
+![image](https://github.com/chayoung0/artificial-neural-networks-final/assets/79144571/ff7c6fe9-f2f1-4342-89c1-c360758f2193)
+
 
 The coin is dropped towards a mat from a height of 1 meter.
 
@@ -22,7 +21,8 @@ To increase the inputs, I also considered starting with a three-finger grip, but
 
 I recorded landing orientations as well as position with respect to the center of the mat. The coin generally falls close to the center, but there are instances where it deviates significantly. It can be seen in the scatter plot below. 
 
-![[Pasted image 20240115171710.png]]
+![Pasted image 20240115171710](https://github.com/chayoung0/artificial-neural-networks-final/assets/79144571/b882f75c-f5fb-4f3c-ad6d-547ffa755b7f)
+
 
 Then transferred the data to Excel and then converted it to CSV.
 
