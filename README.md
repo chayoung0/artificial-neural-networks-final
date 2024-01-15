@@ -1,5 +1,8 @@
 # Artificial Neural Networks Final
 
+Meliha Çağla Kara 
+040180014
+
 Video: https://youtu.be/GwXWSbKewI0
 
 ## How to run
