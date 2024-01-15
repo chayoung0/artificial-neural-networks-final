@@ -1,0 +1,101 @@
+initial;angle;landing;position_x;position_y
+tails;0;tails;-10;-4
+tails;0;heads;-5;2
+tails;0;heads;-11;-2
+tails;0;tails;-8;-1
+tails;0;tails;-10;2
+tails;45;heads;-3;0
+tails;45;tails;-3;-1
+tails;45;tails;-7;4
+tails;45;heads;6;-2
+tails;60;tails;-8;6
+tails;60;tails;-4;-23
+tails;60;tails;-7;9
+tails;60;tails;-7;7
+tails;60;heads;-4;-7
+tails;90;tails;-6;4
+tails;90;tails;-6;2
+tails;90;tails;-23;0
+tails;90;heads;-11;-23
+tails;90;tails;-12;-1
+tails;135;tails;-6;-2
+tails;135;heads;-20;18
+tails;135;heads;-44;-18
+tails;180;tails;-21;0
+tails;180;heads;-8;1
+tails;180;tails;-6;2
+tails;180;tails;23;-7
+tails;180;tails;-7;0
+tails;180;heads;-29;8
+heads;0;tails;-5;-2
+heads;0;tails;-15;-2
+heads;0;heads;-2;1
+heads;0;heads;2;-3
+heads;0;tails;-12;-13
+heads;0;heads;-5;-2
+heads;45;heads;8;-7
+heads;45;heads;-8;-2
+heads;45;tails;-6;-1
+heads;45;tails;-4;-5
+heads;45;tails;-2;-16
+heads;45;heads;-7;0
+heads;60;tails;-10;3
+heads;60;heads;-8;3
+heads;60;heads;12;10
+heads;60;heads;17;16
+heads;60;tails;-5;-5
+heads;60;heads;-10;7
+heads;90;heads;-8;0
+heads;90;tails;-25;8
+heads;90;tails;-7;-1
+heads;90;heads;-8;-2
+heads;90;heads;-6;-1
+heads;90;heads;-11;0
+heads;135;heads;-6;-2
+heads;135;heads;-1;2
+heads;135;heads;1;6
+heads;135;heads;-6;1
+heads;135;heads;-4;-1
+heads;135;tails;-19;-9
+heads;180;tails;-6;1
+heads;180;tails;-8;1
+heads;180;tails;-8;-2
+heads;180;tails;-12;-2
+heads;180;heads;25;-4
+heads;180;heads;-4;-3
+vertical (tails facing me);0;heads;-3;6
+vertical (tails facing me);0;heads;8;-18
+vertical (tails facing me);0;heads;2;19
+vertical (tails facing me);0;heads;-10;-17
+vertical (tails facing me);0;tails;-10;-14
+vertical (tails facing me);0;heads;-2;14
+vertical (tails facing me);45;tails;-9;2
+vertical (tails facing me);45;heads;-9;-7
+vertical (tails facing me);45;tails;-12;2
+vertical (tails facing me);45;tails;-6;0
+vertical (tails facing me);45;tails;-6;2
+vertical (tails facing me);45;heads;-7;0
+vertical (tails facing me);60;heads;-4;-1
+vertical (tails facing me);60;heads;-3;-4
+vertical (tails facing me);60;heads;2;1
+vertical (tails facing me);60;vertical;-6;-2
+vertical (tails facing me);60;tails;-5;0
+vertical (tails facing me);60;tails;-6;9
+vertical (tails facing me);90;heads;-4;-1
+vertical (tails facing me);90;tails;-4;-2
+vertical (tails facing me);90;tails;-5;-2
+vertical (tails facing me);90;heads;-5;-1
+vertical (tails facing me);90;heads;-4;-5
+vertical (tails facing me);90;tails;-8;11
+vertical (tails facing me);135;tails;0;16
+vertical (tails facing me);135;tails;-2;-4
+vertical (tails facing me);135;heads;-5;-39
+vertical (tails facing me);135;tails;-2;0
+vertical (tails facing me);135;tails;-6;-2
+vertical (tails facing me);135;heads;-11;-10
+vertical (tails facing me);180;heads;-16;-6
+vertical (tails facing me);180;heads;3;-5
+vertical (tails facing me);180;tails;4;2
+vertical (tails facing me);180;heads;-5;-20
+vertical (tails facing me);180;heads;-4;2
+vertical (tails facing me);180;heads;-5;-4
